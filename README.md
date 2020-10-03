@@ -3,7 +3,7 @@
 
 <img src="https://github.com/GroovyHooked/GroovyHooked/blob/main/working-on-laptop.jpg" style="width: 50%;"/>
 
-## I'm a Spouse, Father and Learning to Become a Developer!!
+## I'm a Spouse, a Father and Learning to Become a Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developers
