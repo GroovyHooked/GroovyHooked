@@ -1,7 +1,7 @@
 ### Hi there, I'm Thomas - aka [GroovyHooked][website] 👋
 
 [![Website](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepng.fr%2Fpng-229og3%2F&psig=AOvVaw0ryJ1tKCdj1mwq_QW38ieZ&ust=1601839079981000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjA796RmewCFQAAAAAdAAAAABAO)](http://groovyhooked.alwaysdata.net/index.html)
-[![CodePen]https://img2.freepng.fr/20180326/eye/kisspng-github-computer-icons-logo-github-5ab8a338143da0.8375508315220498480829.jpg](https://codepen.io/groovyhooked)
+[![CodePen Follow](https://img2.freepng.fr/20180326/eye/kisspng-github-computer-icons-logo-github-5ab8a338143da0.8375508315220498480829.jpg)](https://codepen.io/groovyhooked)
 
 ## I'm a Spouse, Father and Learning to Become a Developer!!
 
