@@ -1,7 +1,7 @@
 ### Hi there, I'm Thomas - aka [GroovyHooked][website] 👋
 
-[![Website](http://groovyhooked.alwaysdata.net/images/avatar1.jpg)](http://groovyhooked.alwaysdata.net/index.html)
-[![CodePen Follow](https://orioni.co/nmedia/png/codepen-5982.png)](https://codepen.io/groovyhooked)
+[![Website](#)](http://groovyhooked.alwaysdata.net/index.html)
+[![CodePen Follow](#)](https://codepen.io/groovyhooked)
 
 ## I'm a Spouse, Father and Learning to Become a Developer!!
 
