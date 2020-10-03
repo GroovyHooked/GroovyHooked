@@ -12,7 +12,7 @@
 
 ### Deezer Playing 🎧
 
-[<img src="https://thumbor.sd-cdn.fr/KVWWxbMy4lGmT_qm2TmcnN5xi_g=/fit-in/1920x1080/cdn.sd-cdn.fr/wp-content/uploads/2017/11/Deezer.jpg" alt="GroovyHooked Deezer Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://www.pleinlechoeur.be/wp-content/uploads/2017/09/partition1.png" alt="GroovyHooked Deezer Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
