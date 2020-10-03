@@ -12,7 +12,7 @@
 
 ### Deezer Playing 🎧
 
-[<img src="https://www.pleinlechoeur.be/wp-content/uploads/2017/09/partition1.png" alt="GroovyHooked Deezer Playing" width="350" />](https://www.deezer.com/fr/smarttracklist/inspired-by-3)
+[<img src="https://www.pleinlechoeur.be/wp-content/uploads/2017/09/partition1.png" alt="GroovyHooked Deezer Playing" width="350" />](https://deezer.page.link/mMt6AzNRooc1NyXq5)
 
 ### Connect with me:
 
