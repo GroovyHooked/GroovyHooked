@@ -1,8 +1,5 @@
 ### Hi there, I'm Thomas - aka [GroovyHooked][website] 👋
 
-[![Website](#)](http://groovyhooked.alwaysdata.net/index.html)
-[![CodePen Follow](#)](https://codepen.io/groovyhooked)
-
 
 <img src="https://github.com/GroovyHooked/GroovyHooked/blob/main/working-on-laptop.jpg" style="width: 50%;"/>
 ## I'm a Spouse, Father and Learning to Become a Developer!!
@@ -12,9 +9,13 @@
 - 🥅 2020 Goals: Make a Contribution to an Open Source project
 - ⚡ Fun fact: I love to follow MMA and play guitar
 
+
+
 ### Deezer Playing 🎧
 
 [<img src="https://www.pleinlechoeur.be/wp-content/uploads/2017/09/partition1.png" alt="GroovyHooked Deezer Playing" width="350" />](https://deezer.page.link/mMt6AzNRooc1NyXq5)
+
+
 
 ### Connect with me:
 
@@ -25,6 +26,8 @@
 
 
 <br />
+
+
 
 ### Languages and Tools:
 
