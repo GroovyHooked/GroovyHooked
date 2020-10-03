@@ -2,7 +2,7 @@
 
 [![Website](#)](http://groovyhooked.alwaysdata.net/index.html)
 [![CodePen Follow](#)](https://codepen.io/groovyhooked)
-<![https://github.com/GroovyHooked/GroovyHooked/blob/main/in-office-working-on-laptop.jpg]()
+<img src="https://github.com/GroovyHooked/GroovyHooked/blob/main/in-office-working-on-laptop.jpg" style="width: 50%;"/>
 ## I'm a Spouse, Father and Learning to Become a Developer!!
 
 - 🌱 I’m currently learning everything 🤣
