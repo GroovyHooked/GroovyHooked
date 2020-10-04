@@ -64,7 +64,7 @@
 [PierreFeuilleCiseaux]: https://PierreFeuilleCiseaux.groovyhooked.repl.co
 [miniProjetCodepen]: https://codepen.io/groovyhooked/pen/BaKageY
 [miniProjetCodepen1]: https://codepen.io/groovyhooked/pen/NWNKgzL
-[shell]: https://en.wikipedia.org/wiki/Shell_(computing)
+[shell]: https://brew.sh/index_fr
 [cv]: http://www.thomascariot.byethost7.com/?i=1
 [MySQL]: https://www.mysql.com/
 [JetBrains]: https://www.jetbrains.com/
