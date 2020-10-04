@@ -46,7 +46,10 @@
 [<img align="left" alt="Terminal" width="26px" target="_blank" src="https://raw.githubusercontent.com/GroovyHooked/GroovyHooked/main/terminal.png" />][shell]
 
 <br />
+<br />
+
  <cite>Cliquez sur les icônes pour accéder à mes projets</cite>
+ 
 <br />
 
 ---
