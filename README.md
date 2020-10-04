@@ -54,8 +54,10 @@
 
 ---
 <details>
-  <summary><b>:telescope: Lorem Ipsum</b></summary>
-  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+  <summary><b>:mag: En savoir plus</b></summary>
+Passionné par la programmation, je suis déterminé à exceller dans ma reconversion professionnelle. Je mets mes compétences techniques au service d'un travail soigné répondant à vos besoins.
+
+Mes expériences variées m’ont permis de développer des compétences utiles, comme une grande faculté d’adaptation et le gout du travail en équipe. J'espère avoir l'occasion de mettre à profit mes qualités à vos côté pour la réalisation de vos futurs projets de développement.
 </details>
 
 [website]: http://groovyhooked.alwaysdata.net/index.html
