@@ -4,7 +4,7 @@
 <img src="https://github.com/GroovyHooked/GroovyHooked/blob/main/working-on-laptop.jpg" alt="Picture of a laptop"/>
 
 
-## I'm a Husband, a Father and I'm Learning to Become a Developer!!
+## I'm a Husband, a Father and I'm Learning to Become a Full Stack Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developers
@@ -34,7 +34,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/GroovyHooked/GroovyHooked/main/visual-studio-code.png" />][PierreFeuilleCiseaux]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.pnghttps://raw.githubusercontent.com/GroovyHooked/GroovyHooked/main/html.png" />][cv]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/GroovyHooked/GroovyHooked/main/html.png" />][cv]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/GroovyHooked/GroovyHooked/main/css.png" />][miniProjetCodepen]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/GroovyHooked/GroovyHooked/main/sass.png" />][website]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/GroovyHooked/GroovyHooked/main/javascript.png" />][hopital]
