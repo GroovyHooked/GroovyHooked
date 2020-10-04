@@ -62,6 +62,13 @@
 <p>Mes expériences variées m’ont permis de développer des compétences utiles, comme une grande faculté d’adaptation et le gout du travail en équipe. J'espère avoir l'occasion de mettre à profit mes qualités à vos côté pour la réalisation de vos futurs projets de développement.<p>
 </details>
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+ [![GroovyHooked's github stats](https://github-readme-stats.vercel.app/api?username=GroovyHooked)](https://github.com/GroovyHooked/github-readme-stats)
+
+</details>
+
 [website]: http://groovyhooked.alwaysdata.net/index.html
 [codepen]: https://codepen.io/groovyhooked
 [repl.it]: https://repl.it/@GroovyHooked
