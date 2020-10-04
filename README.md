@@ -32,12 +32,13 @@
 
 
 ### Languages and Tools:
-
+[<img align="left" alt="PHP Storm" width="26px src="https://raw.githubusercontent.com/GroovyHooked/GroovyHooked/main/phpstorm.png" />][JetBrains]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/GroovyHooked/GroovyHooked/main/visual-studio-code.png" />][PierreFeuilleCiseaux]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/GroovyHooked/GroovyHooked/main/html.png" />][cv]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/GroovyHooked/GroovyHooked/main/css.png" />][miniProjetCodepen]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/GroovyHooked/GroovyHooked/main/sass.png" />][website]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/GroovyHooked/GroovyHooked/main/javascript.png" />][hopital]
+[<img align="left" alt="PHP" width="26px src="https://raw.githubusercontent.com/GroovyHooked/GroovyHooked/ce914d6664b5ddb77c167be831c2d156dd5ccece/PHP.svg" />][]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/GroovyHooked/GroovyHooked/main/sql.png" />][MySQL]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/GroovyHooked/GroovyHooked/main/mysql.png" />][MySQL]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/GroovyHooked/GroovyHooked/main/git.png" />][github]
@@ -62,3 +63,4 @@
 [shell]: https://en.wikipedia.org/wiki/Shell_(computing)
 [cv]: http://www.thomascariot.byethost7.com/?i=1
 [MySQL]: https://www.mysql.com/
+[JetBrains]: https://www.jetbrains.com/
