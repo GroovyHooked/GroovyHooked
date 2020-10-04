@@ -11,7 +11,6 @@
 - 🥅 2020 Goals: Create a Great project to validate my web developer training
 - ⚡  Fun fact: I love WindSurfing and I follow MMA  
 
-<br />
 
 
 ### Deezer Playlist 🎧
