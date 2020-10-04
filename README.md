@@ -48,7 +48,7 @@
 <br />
 <br />
 
- <cite>Cliquez sur les icônes pour accéder à mes projets</cite>
+ <cite><em>Click on the icones above to check out small projects I'v been working on along my training</em></cite>
  
 <br />
 
