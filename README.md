@@ -55,9 +55,11 @@
 ---
 <details>
   <summary><b>:mag: En savoir plus</b></summary>
-<p class="text-center">Passionné par la programmation, je suis déterminé à exceller dans ma reconversion professionnelle. Je mets mes compétences techniques au service d'un travail soigné répondant à vos besoins.</p>
+ 
+ 
+<p>Passionné par la programmation, je suis déterminé à exceller dans ma reconversion professionnelle. Je mets mes compétences techniques au service d'un travail soigné répondant à vos besoins.</p>
 
-<p class="text-center">Mes expériences variées m’ont permis de développer des compétences utiles, comme une grande faculté d’adaptation et le gout du travail en équipe. J'espère avoir l'occasion de mettre à profit mes qualités à vos côté pour la réalisation de vos futurs projets de développement.<p>
+<p>Mes expériences variées m’ont permis de développer des compétences utiles, comme une grande faculté d’adaptation et le gout du travail en équipe. J'espère avoir l'occasion de mettre à profit mes qualités à vos côté pour la réalisation de vos futurs projets de développement.<p>
 </details>
 
 [website]: http://groovyhooked.alwaysdata.net/index.html
