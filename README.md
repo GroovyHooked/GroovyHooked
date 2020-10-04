@@ -55,7 +55,7 @@
 ---
 <details>
   <summary><b>:mag: En savoir plus</b></summary>
- 
+ <br />
  
 <p>Passionné par la programmation, je suis déterminé à exceller dans ma reconversion professionnelle. Je mets mes compétences techniques au service d'un travail soigné répondant à vos besoins.</p>
 
