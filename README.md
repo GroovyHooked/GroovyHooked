@@ -65,7 +65,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
- [![GroovyHooked's github stats](https://github-readme-stats.vercel.app/api?username=GroovyHooked&show_icons=true&theme=radical)](https://github.com/GroovyHooked/github-readme-stats)
+ [![GroovyHooked's github stats](https://github-readme-stats.vercel.app/api?username=GroovyHooked&show_icons=true&theme=cobalt)](https://github.com/GroovyHooked/github-readme-stats)
 
 </details>
 
