@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2020 Goals: Create a Great project to validate my web developer training
+- 🥅 2021 Goals: Create a Great projects and find a work study program 
 - ⚡  Fun fact: I love WindSurfing and I follow MMA  
 
 
