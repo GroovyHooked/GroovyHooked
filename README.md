@@ -80,5 +80,5 @@
 [shell]: http://thomascariot.ddns.net
 [cv]: http://www.thomascariot.byethost7.com/?i=1
 [MySQL]: http://thomascariot.ddns.net
-[JetBrains]: http://thomascariot.ddns.net
+[JetBrains]: https://Calculatrice.groovyhooked.repl.co
 [colloques]: https://repl.it/@GroovyHooked/Colloques-5#contact.php
