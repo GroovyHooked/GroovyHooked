@@ -68,7 +68,7 @@
 
 </details>
 
-[website]: http://groovyhooked.alwaysdata.net/index.html
+[website]: http://thomascariot.ddns.net
 [codepen]: https://codepen.io/groovyhooked
 [repl.it]: https://repl.it/@GroovyHooked
 [linkedin]: https://www.linkedin.com/in/thomas-cariot-05711a27/
@@ -77,8 +77,8 @@
 [PierreFeuilleCiseaux]: https://PierreFeuilleCiseaux.groovyhooked.repl.co
 [miniProjetCodepen]: https://codepen.io/groovyhooked/pen/BaKageY
 [miniProjetCodepen1]: https://codepen.io/groovyhooked/pen/NWNKgzL
-[shell]: https://brew.sh/index_fr
+[shell]: http://thomascariot.ddns.net
 [cv]: http://www.thomascariot.byethost7.com/?i=1
-[MySQL]: https://www.mysql.com/
-[JetBrains]: https://www.jetbrains.com/
+[MySQL]: http://thomascariot.ddns.net
+[JetBrains]: http://thomascariot.ddns.net
 [colloques]: https://repl.it/@GroovyHooked/Colloques-5#contact.php
