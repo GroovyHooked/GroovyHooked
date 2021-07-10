@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning everything 👨‍🎓
 - 👯 I’m looking to collaborate with other Developers
 - 🥅 2021 Goals: Create Great projects and find a work study program 
-- ⚡  Fun fact: I love WindSurfing and I follow MMA  
+- ⚡  Fun fact: I love Kitesurfing and I follow MMA  
 
 
 
