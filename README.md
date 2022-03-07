@@ -33,7 +33,7 @@
 ### Languages and Tools:
 [<img align="left" alt="PHP Storm" width="26px" target="_blank" src="https://raw.githubusercontent.com/GroovyHooked/GroovyHooked/main/phpstorm.png" />][JetBrains]
 [<img align="left" alt="Visual Studio Code" width="26px" target="_blank" src="https://raw.githubusercontent.com/GroovyHooked/GroovyHooked/main/visual-studio-code.png" />][PierreFeuilleCiseaux]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/GroovyHooked/GroovyHooked/main/html.png" />][cv]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/GroovyHooked/GroovyHooked/main/html.png" />][meatcannes]
 [<img align="left" alt="CSS3" width="26px" target="_blank" src="https://raw.githubusercontent.com/GroovyHooked/GroovyHooked/main/css.png" />][miniProjetCodepen]
 [<img align="left" alt="Sass" width="26px" target="_blank" src="https://raw.githubusercontent.com/GroovyHooked/GroovyHooked/main/sass.png" />][website]
 [<img align="left" alt="JavaScript" width="26px" target="_blank" src="https://raw.githubusercontent.com/GroovyHooked/GroovyHooked/main/javascript.png" />][hopital]
@@ -78,7 +78,7 @@
 [miniProjetCodepen]: https://codepen.io/groovyhooked/pen/BaKageY
 [miniProjetCodepen1]: https://codepen.io/groovyhooked/pen/NWNKgzL
 [shell]: http://thomascariot.ddns.net
-[cv]: http://www.thomascariot.byethost7.com/?i=1
+[meatcannes]: https://meatcannes.fr
 [MySQL]: http://thomascariot.ddns.net
 [JetBrains]: https://Calculatrice.groovyhooked.repl.co
 [colloques]: https://repl.it/@GroovyHooked/Colloques-5#contact.php
