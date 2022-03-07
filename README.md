@@ -21,7 +21,7 @@
 ### Connect with me:
 
 [<img align="left" alt="GroovyHooked" width="22px" target="_blank" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="GroovyHooked | CodePen" width="22px" target="_blank" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111501.svg" />][codepen]
+[<img align="left" alt="GroovyHooked | CodePen" width="22px" target="_blank" src="https://blog.codepen.io/wp-content/uploads/2012/06/Button-Black-Large.png" />][codepen]
 [<img align="left" alt="GroovyHooked | repl.it" width="22px" target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1024px-Repl.it_logo.svg.png" />][repl.it]
 [<img align="left" alt="GroovyHooked | LinkedIn" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
