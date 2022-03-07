@@ -6,9 +6,9 @@
 
 ## I'm a Husband, a Father and I'm Learning to Become a Full Stack Developer!!
 
-- 🌱 I’m currently learning everything 👨‍🎓
-- 👯 I’m looking to collaborate with other Developers
-- 🥅 2021 Goals: Create Great projects and find a work study program 
+- 🌱 I’m currently learning JavaScript 👨‍🎓
+- 👯 I’m looking to acquire more skills in my field
+- 🥅 2022 Goals: Achieve great things with my team
 - ⚡  Fun fact: I love Kitesurfing and I follow MMA  
 
 
