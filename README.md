@@ -4,7 +4,7 @@
 <img src="https://github.com/GroovyHooked/GroovyHooked/blob/main/working-on-laptop.jpg" alt="Picture of a laptop"/>
 
 
-## I'm a Husband, a Father and I'm Learning to Become a Full Stack Developer!!
+## I'm a Husband, a Father and I'm Learning to Become a Front End Developer!!
 
 - 🌱 I’m currently learning JavaScript 👨‍🎓
 - 👯 I’m looking to acquire more skills in my field
