@@ -6,9 +6,9 @@
 
 ## I'm a Husband, a Father and a Front End Developer!!
 
-- 🌱 I’m currently learning JavaScript 👨‍🎓
+- 🌱 I’m currently improving my JavaScript skills 👨‍🎓
 - 👯 I’m looking to acquire more skills in my field
-- 🥅 2022 Goals: Achieve great things with my team
+- 🥅 2023 Goals: Achieve great things with my team
 - ⚡  Fun fact: I love Kitesurfing and I follow MMA  
 
 
