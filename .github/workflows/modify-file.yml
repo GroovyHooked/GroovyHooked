@@ -1,13 +1,14 @@
 name: Modify File Daily
 
-# on:
-#   schedule:
-#     - cron: "0 0 * * *" # Exécuter tous les jours à minuit UTC
-
+# Exécuter tous les jours à minuit et une minute UTC
 on:
-  push:
-    branches:
-      - main  # Remplacez 'main' par le nom de votre branche principale
+  schedule:
+    - cron: "1 0 * * *"
+
+# on:
+#   push:
+#     branches:
+#       - main  # Remplacez 'main' par le nom de votre branche principale
 
 jobs:
   modify-file:
@@ -20,7 +21,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: "16" # Version de Node.js à utiliser
+          node-version: "16"
 
       - name: Run script
         run: node ./display_date.js
