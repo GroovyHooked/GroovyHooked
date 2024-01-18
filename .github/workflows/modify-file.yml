@@ -1,8 +1,13 @@
 name: Modify File Daily
 
+# on:
+#   schedule:
+#     - cron: "0 0 * * *" # Exécuter tous les jours à minuit UTC
+
 on:
-  schedule:
-    - cron: "0 0 * * *" # Exécuter tous les jours à minuit UTC
+  push:
+    branches:
+      - main  # Remplacez 'main' par le nom de votre branche principale
 
 jobs:
   modify-file:
