@@ -1,4 +1,4 @@
-### Hi there, I'm Thomas - aka [GroovyHooked][website] 👋 
+### Hi there, I'm Thomas - aka [GroovyHooked][linkedin] 👋 
 <!-- display date -->
 February 3, 2024
 <!-- display date end -->
