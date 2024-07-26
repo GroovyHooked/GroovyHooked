@@ -1,6 +1,6 @@
 ### Hi there, I'm Thomas - aka [GroovyHooked][linkedin] 👋 
 <!-- display date -->
-July 25, 2024
+July 26, 2024
 <!-- display date end -->
 
 <img src="https://github.com/GroovyHooked/GroovyHooked/blob/main/assets/img/working-on-laptop.jpg" alt="Picture of a laptop"/>
