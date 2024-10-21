@@ -1,14 +1,9 @@
-name: Modify File Daily
+name: Modify File Randomly Multiple Times
 
 # Exécuter tous les jours à minuit et une minute UTC
 on:
   schedule:
     - cron: "1 0 * * *"
-
-# on:
-#   push:
-#     branches:
-#       - main  # Remplacez 'main' par le nom de votre branche principale
 
 jobs:
   modify-file:
@@ -23,5 +18,29 @@ jobs:
         with:
           node-version: "16"
 
-      - name: Run script
-        run: node ./display_date.js
+      - name: Run random number of pushes
+        run: |
+          # Générer un nombre aléatoire entre 1 et 5
+          num_pushes=$(( ( RANDOM % 5 )  + 1 ))
+
+          echo "Nombre de pushes pour aujourd'hui: $num_pushes"
+
+          # Boucle pour exécuter le script un nombre de fois aléatoire
+          for i in $(seq 1 $num_pushes); do
+            echo "Push $i"
+            
+            # Modifier le fichier (exécute votre script)
+            node ./display_date.js
+            
+            # Commit et push
+            git config --global user.name "Your Name"
+            git config --global user.email "your-email@example.com"
+            git add .
+            git commit -m "Push aléatoire numéro $i"
+            git push
+            
+            # Attendre un temps aléatoire entre chaque push (de 1 à 60 minutes)
+            sleep_time=$(( ( RANDOM % 3600 ) + 1 ))
+            echo "Attente de $sleep_time secondes avant le prochain push."
+            sleep $sleep_time
+          done
