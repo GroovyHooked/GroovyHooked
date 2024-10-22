@@ -33,8 +33,8 @@ jobs:
             node ./display_date.js
             
             # Commit et push
-            git config --global user.name "Your Name"
-            git config --global user.email "your-email@example.com"
+            git config --global user.name "groovyhooked"
+            git config --global user.email "dafrenchie2002@yahoo.com"
             git add .
             git commit -m "Push aléatoire numéro $i"
             git push
