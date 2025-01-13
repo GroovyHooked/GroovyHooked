@@ -10,7 +10,7 @@ January 13, 2025
 
 - 🚀 Actively honing my JavaScript proficiency to craft robust and efficient solutions 👨‍🎓
 - 🌐 Eager to expand my skill set within the realm of my expertise
-- 🎯 2024 Aspirations: Spearheading impactful achievements alongside my dynamic team
+- 🎯 2025 Aspirations: Spearheading impactful achievements alongside my dynamic team
 - ⚡ Fun Tidbit: Passionate about Kitesurfing and an avid follower of MMA bouts 🏄‍♂️🥊
  
 
