@@ -4,6 +4,7 @@ name: Modify File Randomly Multiple Times
 on:
   schedule:
     - cron: "1 0 * * *"
+  workflow_dispatch:  # Enable manual triggers
 
 jobs:
   modify-file:
@@ -25,21 +26,23 @@ jobs:
 
           echo "Nombre de pushes pour aujourd'hui: $num_pushes"
 
-          # Boucle pour exécuter le script un nombre de fois aléatoire
           for i in $(seq 1 $num_pushes); do
             echo "Push $i"
             
-            # Modifier le fichier (exécute votre script)
             node ./display_date.js
             
-            # Commit et push
+            # Check if there are changes to commit
+            if git diff --quiet; then
+              echo "No changes to commit"
+              continue
+            fi
+            
             git config --global user.name "groovyhooked"
             git config --global user.email "dafrenchie2002@yahoo.com"
             git add .
-            git commit -m "Push aléatoire numéro $i"
+            git commit -m "Daily update $(date '+%Y-%m-%d %H:%M:%S')"
             git push
             
-            # Attendre un temps aléatoire entre chaque push (de 1 à 60 minutes)
             sleep_time=$(( ( RANDOM % 3600 ) + 1 ))
             echo "Attente de $sleep_time secondes avant le prochain push."
             sleep $sleep_time
