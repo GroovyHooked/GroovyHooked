@@ -4,6 +4,7 @@ name: Modify File Randomly Multiple Times
 on:
   schedule:
     - cron: "1 0 * * *"
+  workflow_dispatch:  # Enable manual triggers
 
 jobs:
   modify-file:
@@ -36,7 +37,7 @@ jobs:
             git config --global user.name "groovyhooked"
             git config --global user.email "dafrenchie2002@yahoo.com"
             git add .
-            git commit -m "Push aléatoire numéro $i"
+            git commit -m "Daily update $(date '+%Y-%m-%d %H:%M:%S')"
             git push
             
             # Attendre un temps aléatoire entre chaque push (de 1 à 60 minutes)
