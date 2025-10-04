@@ -24,7 +24,19 @@ fs.writeFileSync(README_PATH, newContent);
 exec('git config --global user.email "dafrenchie2002@yahoo.fr"');
 exec('git config --global user.name "GroovyHooked"');
 exec('git add README.md');
-exec('git commit -m "Update README with current date"');
-exec('git push');
+
+// Check if there are changes to commit
+try {
+  const status = exec('git status --porcelain').toString().trim();
+  if (status) {
+    console.log('Changes detected, committing...');
+    exec('git commit -m "Update README with current date"');
+    exec('git push');
+  } else {
+    console.log('No changes to commit');
+  }
+} catch (error) {
+  console.error('Error during git operations:', error.message);
+}
 
 
