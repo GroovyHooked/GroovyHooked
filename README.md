@@ -6,11 +6,11 @@ October 4, 2025​​​​​
 <img src="https://github.com/GroovyHooked/GroovyHooked/blob/main/assets/img/working-on-laptop.jpg" alt="Picture of a laptop"/>
 
 
-## I'm a Father, a Husband and a Front End Developer!!
+## Front End Developer with a passion for creating elegant, efficient solutions | Balancing professional excellence with family values
 
 - 🚀 Actively honing my JavaScript proficiency to craft robust and efficient solutions 👨‍🎓
 - 🌐 Eager to expand my skill set within the realm of my expertise
-- 🎯 2025 Aspirations: Spearheading impactful achievements alongside my dynamic team
+- 🎯 2025 Aspirations: Delivering high-value solutions as an independent developer while seeking collaborative opportunities with forward-thinking companies
 - ⚡ Fun Tidbit: Passionate about Kitesurfing and an avid follower of MMA bouts 🏄‍♂️🥊
  
 
