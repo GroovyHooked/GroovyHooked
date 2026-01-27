@@ -6,14 +6,13 @@ January 27, 2026​​​
 <img src="https://github.com/GroovyHooked/GroovyHooked/blob/main/assets/img/working-on-laptop.jpg" alt="Picture of a laptop"/>
 
 
-## Front End Developer with a passion for creating elegant, efficient solutions | Balancing professional excellence with family values
+## Front-End Developer focused on building clean, performant, and user-centric web interfaces 
+## Turning ideas into maintainable JavaScript applications
 
-- 🚀 Actively honing my JavaScript proficiency to craft robust and efficient solutions 👨‍🎓
-- 🌐 Eager to expand my skill set within the realm of my expertise
-- 🎯 2025 Aspirations: Delivering high-value solutions as an independent developer while seeking collaborative opportunities with forward-thinking companies
-- ⚡ Fun Tidbit: Passionate about Kitesurfing and an avid follower of MMA bouts 🏄‍♂️🥊
- 
-
+- 🚀 Strong JavaScript foundations, actively leveling up in modern front-end development (React, tooling, best practices)
+- 🌐 Passionate about writing clean code and continuously improving UX and performance
+- 🎯 2026 Aspirations: Goal: Working as an independent developer, delivering real business value while collaborating with product-driven teams
+- ⚡ Outside of code: Kitesurfing enthusiast and MMA fan 🏄‍♂️🥊
 
 
 ### Deezer Playlist 🎧
@@ -24,7 +23,7 @@ January 27, 2026​​​
 ### Connect with me:
 
 [<img align="left" alt="GroovyHooked | LinkedIn" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="GroovyHooked | repl.it" width="22px" target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1024px-Repl.it_logo.svg.png" />][repl.it]
+[<img align="left" alt="GroovyHooked | repl.it" width="22px" target="_blank" src="https://images.seeklogo.com/logo-png/45/2/replit-icon-logo-png_seeklogo-453824.png" />][repl.it]
 [<img align="left" alt="GroovyHooked | CodePen" width="22px" target="_blank" src="https://raw.githubusercontent.com/GroovyHooked/GroovyHooked/main/assets/img/codepen-icon-11.jpg" />][codepen]
 
 <br />
