@@ -11,7 +11,7 @@ January 27, 2026​​​
 
 - 🚀 Strong JavaScript foundations, actively leveling up in modern front-end development (React, tooling, best practices)
 - 🌐 Passionate about writing clean code and continuously improving UX and performance
-- 🎯 2026 Aspirations: Goal: Working as an independent developer, delivering real business value while collaborating with product-driven teams
+- 🎯 2026 Goal: Working as an independent developer, delivering real business value while collaborating with product-driven teams
 - ⚡ Outside of code: Kitesurfing enthusiast and MMA fan 🏄‍♂️🥊
 
 
