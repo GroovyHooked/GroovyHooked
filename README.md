@@ -17,7 +17,7 @@ July 21, 2026​​​​
 
 ### Deezer Playlist 🎧
 
-[<img src="https://www.pleinlechoeur.be/wp-content/uploads/2017/09/partition1.png" target="_blank" alt="GroovyHooked Deezer Playing" width="350" />](https://deezer.page.link/mMt6AzNRooc1NyXq5)
+[<img src="https://i.etsystatic.com/21877275/r/il/279334/6722623830/il_570xN.6722623830_qngg.jpg" target="_blank" alt="GroovyHooked Deezer Playing" width="350" />](https://deezer.page.link/mMt6AzNRooc1NyXq5)
 
 
 ### Connect with me:
